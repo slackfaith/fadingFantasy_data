@@ -1,0 +1,78 @@
+Counterscraps (C) 2000 Ray Larabie -freeware.  Freely distributable.
+
+www.larabiefonts.com
+uk.zarcrom.com/font
+rlarabie@hotmail.com
+
+! - spatula
+# - measuring spoons
+$ - knife
+% - fork
+& - measuring cup
+' - mixer
+( - frying pan
+) - pot
+* - bananas
+0 - salt & pepper
+1 - spatula 2
+2 - spoon 2
+3 - measuring spoons 2
+4 - meat
+5 -oven
+6 - potato
+7 - toaster
+8 - tomato
+9 - wine
+@ - title
+A - bananas 2
+B - turnip
+C - strawberry
+D - blender
+E - vinegar jug
+F - bread
+G - broccoli
+H - cake
+I - whisk
+J - carrot
+K - celery
+L - cheese
+M - cleaver
+N - citrus
+O - ice-cream cone
+P - cucumber
+Q - coffee
+R - sundae
+S - drumstick
+T - eggplant
+U - egg in cup
+V - fish
+W - flour
+X - food processor
+Y - fork 2
+Z - fried egg
+a - frying pan 2
+b - garlic
+c - grapes
+d - pepper
+e - kettle
+f - knife 2
+g - lemon
+h - sausage link
+i - measuring cup 2
+j - milk
+k - mixer 2
+l - muffin
+m - mushrooms
+n - microwave oven
+o - onion
+p - peach
+q - pear
+r - peas
+s - green pepper
+t - coffee maker
+u - pie
+v - pineapple
+w - pot
+x - beet
+y - salad
+z - sandwich
